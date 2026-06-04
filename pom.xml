@@ -6,12 +6,12 @@
 	<parent>
 		<groupId>org.springframework.data.build</groupId>
 		<artifactId>spring-data-parent</artifactId>
-		<version>3.5.14-SNAPSHOT</version>
+		<version>3.5.14</version>
 	</parent>
 
 	<groupId>org.springframework.data</groupId>
 	<artifactId>spring-data-cassandra-parent</artifactId>
-	<version>4.5.14-SNAPSHOT</version>
+	<version>4.5.14</version>
 	<packaging>pom</packaging>
 
 	<name>Spring Data for Apache Cassandra</name>
@@ -109,7 +109,7 @@
 		<el.version>1.0</el.version>
 		<multithreadedtc.version>1.01</multithreadedtc.version>
 		<project.type>multi</project.type>
-		<springdata.commons>3.5.14-SNAPSHOT</springdata.commons>
+		<springdata.commons>3.5.14</springdata.commons>
 	</properties>
 
 	<dependencyManagement>
